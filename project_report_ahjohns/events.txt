@@ -1,0 +1,1704 @@
+Character	Events
+Blob	Age of Apocalypse
+Blob	Evolutionary War
+Blob	Fall of the Mutants
+Blob	Mutant Massacre
+Blob	Secret Wars
+Abyss	Age of Apocalypse
+She-Hulk (Jennifer Walters)	Atlantis Attacks
+She-Hulk (Jennifer Walters)	Civil War
+She-Hulk (Jennifer Walters)	Dark Reign
+She-Hulk (Jennifer Walters)	Fear Itself
+She-Hulk (Jennifer Walters)	Infinity Gauntlet
+She-Hulk (Jennifer Walters)	Infinity War
+She-Hulk (Jennifer Walters)	Maximum Security
+She-Hulk (Jennifer Walters)	Secret Invasion
+She-Hulk (Jennifer Walters)	Secret Wars
+She-Hulk (Jennifer Walters)	Secret Wars II
+She-Hulk (Jennifer Walters)	World War Hulk
+She-Hulk (Jennifer Walters)	X-Tinction Agenda
+Beetle	Acts of Vengeance!
+Beetle	Armor Wars
+High Evolutionary	Annihilation: Conquest
+High Evolutionary	Evolutionary War
+Goliath (Bill Foster)	Civil War
+Maria Hill	Initiative
+Maria Hill	Secret Invasion
+Ben Urich	Initiative
+Bullseye	Civil War
+Bullseye	Dark Reign
+Bullseye	Initiative
+Storm	Acts of Vengeance!
+Storm	Age of Apocalypse
+Storm	Age of X
+Storm	Atlantis Attacks
+Storm	Avengers VS X-Men
+Storm	Civil War
+Storm	Days of Future Present
+Storm	Enemy of the State
+Storm	Evolutionary War
+Storm	Fall of the Mutants
+Storm	Fatal Attractions
+Storm	Inferno
+Storm	Infinity War
+Storm	Initiative
+Storm	Maximum Security
+Storm	Messiah CompleX
+Storm	Mutant Massacre
+Storm	Onslaught
+Storm	Secret Wars
+Storm	Secret Wars II
+Human Robot	Dark Reign
+Human Robot	Initiative
+Puck	Fear Itself
+Puck	Infinity War
+Echo	Initiative
+Echo	Secret Invasion
+Gravity	Dark Reign
+Gravity	Fear Itself
+Gravity	Secret Invasion
+Gravity	Spider-Island
+Humbug	World War Hulk
+Gorilla Man	Dark Reign
+Carlie Cooper	Spider-Island
+Dazzler	Acts of Vengeance!
+Dazzler	Atlantis Attacks
+Dazzler	Evolutionary War
+Dazzler	Fall of the Mutants
+Dazzler	Inferno
+Dazzler	Secret Wars II
+Mojo	Acts of Vengeance!
+Mojo	Evolutionary War
+Lockheed	Fatal Attractions
+Lockheed	Mutant Massacre
+Lockheed	Onslaught
+Lockheed	Secret Wars
+Quasar (Phyla-Vell)	Acts of Vengeance!
+Quasar (Phyla-Vell)	Annihilation: Conquest
+Quasar (Phyla-Vell)	Atlantis Attacks
+Quasar (Phyla-Vell)	Infinity Gauntlet
+Quasar (Phyla-Vell)	Infinity War
+Quasar (Phyla-Vell)	Maximum Security
+Quasar (Phyla-Vell)	Secret Wars
+Elektra	Enemy of the State
+Elektra	Fear Itself
+Elektra	Initiative
+Elektra	Marvel NOW!
+Elektra	Onslaught
+Elektra	Secret Invasion
+Elektra	Spider-Island
+Skrulls	Dark Reign
+Skrulls	Secret Invasion
+Shang-Chi	Fear Itself
+Shang-Chi	Shattered Heroes
+Shang-Chi	Spider-Island
+Shang-Chi	World War Hulk
+Man-Thing	Fear Itself
+Man-Thing	Infinity Gauntlet
+Man-Thing	Siege of Darkness
+Black Knight	Acts of Vengeance!
+Black Knight	Infinity War
+Black Knight	Secret Wars II
+Titania	Fear Itself
+Titania	Shattered Heroes
+Cypher	Fear Itself
+Cypher	X-Men: Regenesis
+Night Thrasher	Acts of Vengeance!
+Night Thrasher	Initiative
+Night Thrasher	Kings of Pain
+Doctor Octopus	Secret Wars
+Sasquatch (Walter Langkowski)	Fear Itself
+Sasquatch (Walter Langkowski)	Infinity War
+Sasquatch (Walter Langkowski)	Secret Invasion
+Mandarin	Acts of Vengeance!
+Lilandra	Acts of Vengeance!
+Lilandra	Fatal Attractions
+Lilandra	Maximum Security
+Lilandra	Secret Wars II
+Bushwacker	Acts of Vengeance!
+Nightmare	Infinity Gauntlet
+Hepzibah	Maximum Security
+Hepzibah	Secret Wars II
+Dark Avengers	Dark Reign
+Dark Avengers	Siege
+Quasar (Wendell Vaughn)	Annihilation
+Quasar (Wendell Vaughn)	The Thanos Imperative
+Goblin Queen	Inferno
+Rockslide	Messiah CompleX
+Marvel Boy	Acts of Vengeance!
+Marvel Boy	Dark Reign
+Marvel Boy	Kings of Pain
+Marvel Boy	Siege
+Ancient One	Acts of Vengeance!
+Ancient One	Infinity Gauntlet
+Ancient One	Infinity War
+Wind Dancer	Initiative
+Guardian	Infinity War
+Dagger	Civil War
+Dagger	Dark Reign
+Dagger	Spider-Island
+Beyonder	Secret Wars II
+Nova	Acts of Vengeance!
+Nova	Annihilation
+Nova	Annihilation: Conquest
+Nova	Infinity Gauntlet
+Nova	Infinity War
+Nova	Initiative
+Nova	Maximum Security
+Nova	Realm of Kings
+Nova	Secret Invasion
+Nova	The Thanos Imperative
+Nova	War of Kings
+Wiccan	Civil War
+Wiccan	Dark Reign
+Wiccan	Siege
+Deadpool	Age of Apocalypse
+Deadpool	Civil War
+Deadpool	Dark Reign
+Deadpool	Fear Itself
+Deadpool	House of M
+Deadpool	Messiah War
+Deadpool	Secret Invasion
+Deadpool	X-Men: Regenesis
+Deadpool	X-Men: Schism
+Arcade	Age of Apocalypse
+Swordsman	Chaos War
+Swordsman	Enemy of the State
+Swordsman	Initiative
+She-Hulk (Lyra)	Fear Itself
+Pestilence	Fall of the Mutants
+Warlock (Technarchy)	Fear Itself
+Warlock (Technarchy)	X-Men: Regenesis
+Callisto	Age of Apocalypse
+Callisto	Mutant Massacre
+Invisible Woman	Acts of Vengeance!
+Invisible Woman	Age of X
+Invisible Woman	Atlantis Attacks
+Invisible Woman	Chaos War
+Invisible Woman	Civil War
+Invisible Woman	Dark Reign
+Invisible Woman	Days of Future Present
+Invisible Woman	House of M
+Invisible Woman	Infinity War
+Invisible Woman	Initiative
+Invisible Woman	Maximum Security
+Invisible Woman	Onslaught
+Invisible Woman	Secret Wars
+Invisible Woman	Secret Wars II
+Invisible Woman	Shattered Heroes
+Invisible Woman	Spider-Island
+Invisible Woman	World War Hulk
+Bastion	Onslaught
+Bastion	X-Men: Second Coming
+Death	Age of Apocalypse
+Death	Infinity War
+Karma	Fear Itself
+Young Avengers	Civil War
+Young Avengers	Dark Reign
+Young Avengers	Siege
+Pyro	Evolutionary War
+Pyro	Fall of the Mutants
+Pyro	Kings of Pain
+Pyro	Mutant Massacre
+Pyro	Secret Wars
+Hobgoblin (Roderick Kingsley)	Acts of Vengeance!
+Hobgoblin (Roderick Kingsley)	Secret Wars
+Hobgoblin (Roderick Kingsley)	Spider-Island
+Avalanche	Evolutionary War
+Avalanche	Fall of the Mutants
+Avalanche	Kings of Pain
+Avalanche	Mutant Massacre
+Avalanche	Secret Wars
+Multiple Man	Chaos War
+Multiple Man	Kings of Pain
+Blockbuster	Inferno
+Blockbuster	Mutant Massacre
+Tigra (Greer Nelson)	Civil War
+Tigra (Greer Nelson)	Dark Reign
+Tigra (Greer Nelson)	Evolutionary War
+Tigra (Greer Nelson)	Fear Itself
+Tigra (Greer Nelson)	Initiative
+Tigra (Greer Nelson)	Maximum Security
+Tigra (Greer Nelson)	Secret Invasion
+Tigra (Greer Nelson)	Shattered Heroes
+Tigra (Greer Nelson)	Siege
+Tigra (Greer Nelson)	World War Hulk
+Proteus	Kings of Pain
+Pip	Blood and Thunder
+Mantis	Annihilation: Conquest
+Mantis	Evolutionary War
+Moon Knight	Civil War
+Moon Knight	Evolutionary War
+Moon Knight	Initiative
+Kitty Pryde	Age of Apocalypse
+Kitty Pryde	Enemy of the State
+Kitty Pryde	Fatal Attractions
+Kitty Pryde	Fear Itself
+Kitty Pryde	Onslaught
+Kitty Pryde	Secret Wars
+Kitty Pryde	Secret Wars II
+Mr. Hyde	Acts of Vengeance!
+Electro	Armor Wars
+Electro	Secret Invasion
+Mr. Negative	Spider-Island
+Armory	Secret Invasion
+Korg	Chaos War
+Korg	Planet Hulk
+Purple Man	Fear Itself
+May Parker	Dark Reign
+May Parker	Spider-Island
+Silver Surfer	Acts of Vengeance!
+Silver Surfer	Annihilation
+Silver Surfer	Blood and Thunder
+Silver Surfer	Chaos War
+Silver Surfer	Fear Itself
+Silver Surfer	Inferno
+Silver Surfer	Infinity Gauntlet
+Silver Surfer	Infinity War
+Silver Surfer	Initiative
+Silver Surfer	Maximum Security
+Silver Surfer	Planet Hulk
+Silver Surfer	The Thanos Imperative
+Rocket Raccoon	Annihilation: Conquest
+Rocket Raccoon	The Thanos Imperative
+Cannonball	Age of Apocalypse
+Cannonball	Age of X
+Cannonball	Atlantis Attacks
+Cannonball	Days of Future Present
+Cannonball	Fatal Attractions
+Cannonball	Kings of Pain
+Cannonball	Messiah CompleX
+Cannonball	Onslaught
+Cannonball	Secret Wars II
+Cannonball	Siege
+Cannonball	X-Tinction Agenda
+Mary Jane Watson	Other - Evolve or Die
+Mary Jane Watson	Spider-Island
+Paladin	Fear Itself
+Paladin	Spider-Island
+Patriot	Civil War
+Patriot	Dark Reign
+Thanos	Blood and Thunder
+Thanos	Infinity Gauntlet
+Thanos	Infinity War
+Thanos	The Thanos Imperative
+Stature	Civil War
+Stature	Dark Reign
+Stature	Siege
+The Winter Soldier	Chaos War
+The Winter Soldier	Civil War
+The Winter Soldier	Dark Reign
+The Winter Soldier	Fear Itself
+The Winter Soldier	Initiative
+The Winter Soldier	Shattered Heroes
+The Winter Soldier	Siege
+The Winter Soldier	Spider-Island
+The Winter Soldier	World War Hulks
+Mr. Fantastic	Acts of Vengeance!
+Mr. Fantastic	Chaos War
+Mr. Fantastic	Civil War
+Mr. Fantastic	Dark Reign
+Mr. Fantastic	Days of Future Present
+Mr. Fantastic	Fatal Attractions
+Mr. Fantastic	House of M
+Mr. Fantastic	Infinity Gauntlet
+Mr. Fantastic	Initiative
+Mr. Fantastic	Maximum Security
+Mr. Fantastic	Onslaught
+Mr. Fantastic	Other - Evolve or Die
+Mr. Fantastic	Secret Invasion
+Mr. Fantastic	Secret Wars
+Mr. Fantastic	Secret Wars II
+Mr. Fantastic	Shattered Heroes
+Mr. Fantastic	Spider-Island
+Mr. Fantastic	World War Hulk
+Star-Lord (Peter Quill)	Annihilation: Conquest
+Star-Lord (Peter Quill)	The Thanos Imperative
+Baron Zemo (Heinrich Zemo)	House of M
+Blink	Age of Apocalypse
+Blink	Onslaught
+Forge	Acts of Vengeance!
+Forge	Age of Apocalypse
+Forge	Days of Future Present
+Forge	Evolutionary War
+Forge	Fatal Attractions
+Forge	Onslaught
+Forge	X-Tinction Agenda
+Magneto	Acts of Vengeance!
+Magneto	Age of Apocalypse
+Magneto	Atlantis Attacks
+Magneto	Avengers VS X-Men
+Magneto	Civil War
+Magneto	Fatal Attractions
+Magneto	Fear Itself
+Magneto	House of M
+Magneto	Marvel NOW!
+Magneto	Messiah CompleX
+Magneto	Mutant Massacre
+Magneto	Onslaught
+Magneto	Secret Wars
+Magneto	Secret Wars II
+Magneto	X-Men: Schism
+Carmella Unuscione	Fatal Attractions
+Moira MacTaggert	Age of X
+Gargoyle	Fear Itself
+Hank Pym	Civil War
+Hank Pym	Dark Reign
+Hank Pym	Fear Itself
+Hank Pym	Initiative
+Hank Pym	Onslaught
+Hank Pym	Secret Invasion
+Hank Pym	Siege
+Colleen Wing	Civil War
+Colleen Wing	World War Hulk
+Sebastian Shaw	Avengers VS X-Men
+Sebastian Shaw	Dark Reign
+Sebastian Shaw	X-Men: Regenesis
+Spiral (Rita Wayword)	Acts of Vengeance!
+Spiral (Rita Wayword)	Evolutionary War
+Spiral (Rita Wayword)	Fall of the Mutants
+Spiral (Rita Wayword)	Mutant Massacre
+Harpoon	Inferno
+Harpoon	Mutant Massacre
+The Hand	Dark Reign
+The Hand	Initiative
+The Hand	Secret Invasion
+Medusa	The Thanos Imperative
+Fantomex	X-Men: Regenesis
+Famine	Fall of the Mutants
+Sharon Carter	Initiative
+Sharon Carter	Shattered Heroes
+Amadeus Cho	Dark Reign
+Amadeus Cho	Fear Itself
+Amadeus Cho	Siege
+Dark Phoenix	Evolutionary War
+Magik (Illyana Rasputin)	Age of Apocalypse
+Magik (Illyana Rasputin)	Avengers VS X-Men
+Magik (Illyana Rasputin)	X-Men: Second Coming
+Valkyrie	Blood and Thunder
+Amiko	Secret Wars
+Sif	Blood and Thunder
+Sif	Infinity Gauntlet
+Sif	Maximum Security
+Mister Sinister	Age of Apocalypse
+Mister Sinister	Inferno
+Mister Sinister	Messiah CompleX
+Mister Sinister	Onslaught
+Mister Sinister	X-Men: Regenesis
+Howard The Duck	Fear Itself
+Rachel Grey	Enemy of the State
+Rachel Grey	Fall of the Mutants
+Iron Fist (Danny Rand)	Avengers VS X-Men
+Iron Fist (Danny Rand)	Civil War
+Iron Fist (Danny Rand)	Fear Itself
+Iron Fist (Danny Rand)	Infinity War
+Iron Fist (Danny Rand)	Initiative
+Iron Fist (Danny Rand)	Marvel NOW!
+Iron Fist (Danny Rand)	Secret Wars II
+Iron Fist (Danny Rand)	Shadowland
+Iron Fist (Danny Rand)	Spider-Island
+Dark X-Men	Dark Reign
+Loki	Acts of Vengeance!
+Loki	Atlantis Attacks
+Loki	Dark Reign
+Loki	Fear Itself
+Loki	Secret Wars II
+Loki	Shattered Heroes
+Loki	Siege
+Sabretooth	Age of Apocalypse
+Sabretooth	Inferno
+Sabretooth	Messiah CompleX
+Sabretooth	Mutant Massacre
+Sabretooth	Onslaught
+Sunfire	Age of Apocalypse
+Sunfire	Fatal Attractions
+Sunfire	Maximum Security
+Sunfire	Siege
+Red Hulk	Avengers VS X-Men
+Red Hulk	Fall of the Hulks
+Red Hulk	Fear Itself
+MVP	Secret Invasion
+Sentinels	Days of Future Present
+Sentinels	X-Men: Schism
+Leech	Atlantis Attacks
+Leech	Evolutionary War
+Wolfsbane	Atlantis Attacks
+Wolfsbane	Onslaught
+Wolfsbane	Secret Wars II
+Power Pack	Atlantis Attacks
+Miek	Planet Hulk
+Blue Marvel	Fear Itself
+Blue Marvel	Original Sin
+Meltdown	Onslaught
+X-Man	Age of Apocalypse
+X-Man	Fear Itself
+X-Man	Maximum Security
+X-Man	Onslaught
+X-Man	X-Men: Regenesis
+Apocalypse	Acts of Vengeance!
+Apocalypse	Age of Apocalypse
+Apocalypse	Evolutionary War
+Apocalypse	Fall of the Mutants
+Apocalypse	Messiah War
+Apocalypse	Onslaught
+Apocalypse	Siege
+Gauntlet	Dark Reign
+Gauntlet	Secret Invasion
+Gauntlet	Siege
+Gauntlet	World War Hulk
+Thunderbird (John Proudstar)	Chaos War
+Thunderbird (John Proudstar)	Maximum Security
+Carnage	Maximum Carnage
+Hiroim	Planet Hulk
+Stingray (Walter Newell)	Armor Wars
+Mystique (House of M)	House of M
+Juggernaut	Acts of Vengeance!
+Juggernaut	Age of Apocalypse
+Juggernaut	Avengers VS X-Men
+Juggernaut	Fear Itself
+Juggernaut	Inferno
+Juggernaut	Infinity War
+Juggernaut	Messiah CompleX
+Juggernaut	Onslaught
+Juggernaut	Shattered Heroes
+Scorpion (Carmilla Black)	World War Hulk
+X-23	Fear Itself
+X-23	Messiah CompleX
+X-23	Messiah War
+X-23	Shattered Heroes
+Drax	Annihilation
+Drax	Blood and Thunder
+Iron Patriot (James Rhodes)	Avengers VS X-Men
+Iron Patriot (James Rhodes)	Fear Itself
+Iron Patriot (James Rhodes)	Secret Invasion
+Iron Patriot (James Rhodes)	Shattered Heroes
+Lizard	Secret Wars
+M.O.D.O.K.	Fall of the Hulks
+Quicksilver	Age of Apocalypse
+Quicksilver	Dark Reign
+Quicksilver	Fatal Attractions
+Quicksilver	Fear Itself
+Quicksilver	House of M
+Quicksilver	Onslaught
+Quicksilver	Shattered Heroes
+Quicksilver	Siege
+Madame Masque	Siege
+Karnak	Acts of Vengeance!
+Karnak	The Thanos Imperative
+3-D Man	Secret Invasion
+Edwin Jarvis	Dark Reign
+Edwin Jarvis	Fear Itself
+Edwin Jarvis	Initiative
+Edwin Jarvis	Secret Invasion
+Edwin Jarvis	Siege
+Penance (Robert Baldwin)	Acts of Vengeance!
+Penance (Robert Baldwin)	Evolutionary War
+Penance (Robert Baldwin)	Fear Itself
+Penance (Robert Baldwin)	Initiative
+Penance (Robert Baldwin)	Kings of Pain
+Penance (Robert Baldwin)	Shattered Heroes
+Penance (Robert Baldwin)	Siege
+Polaris	Age of Apocalypse
+Polaris	Atlantis Attacks
+Polaris	Fatal Attractions
+Polaris	Infinity War
+Polaris	Kings of Pain
+Polaris	Onslaught
+Red Skull	Acts of Vengeance!
+Red Skull	Civil War
+Red Skull	Initiative
+Red Skull	Onslaught
+ Hank Pym	Dark Reign
+ Hank Pym	Fear Itself
+ Hank Pym	Initiative
+ Hank Pym	Secret Invasion
+ Hank Pym	Shattered Heroes
+ Hank Pym	Siege
+Thing	Acts of Vengeance!
+Thing	Atlantis Attacks
+Thing	Avengers VS X-Men
+Thing	Chaos War
+Thing	Civil War
+Thing	Days of Future Present
+Thing	Fall of the Mutants
+Thing	Fatal Attractions
+Thing	Fear Itself
+Thing	House of M
+Thing	Inferno
+Thing	Infinity Gauntlet
+Thing	Initiative
+Thing	Maximum Security
+Thing	Onslaught
+Thing	Secret Invasion
+Thing	Secret Wars
+Thing	Shattered Heroes
+Thing	Spider-Island
+Thing	World War Hulk
+Omega Flight	Initiative
+Marrow	Age of Apocalypse
+Sub-Mariner	Age of X
+Sub-Mariner	Atlantis Attacks
+Sub-Mariner	Avengers VS X-Men
+Sub-Mariner	Civil War
+Sub-Mariner	Dark Reign
+Sub-Mariner	Fear Itself
+Sub-Mariner	House of M
+Sub-Mariner	Infinity Gauntlet
+Sub-Mariner	Initiative
+Sub-Mariner	Maximum Security
+Sub-Mariner	Secret Invasion
+Sub-Mariner	Shattered Heroes
+Sub-Mariner	War of Kings
+Sub-Mariner	X-Men: Regenesis
+Sub-Mariner	X-Men: Schism
+Spider-Woman (Charlotte Witter)	Initiative
+Vertigo (Savage Land Mutate)	Inferno
+Vertigo (Savage Land Mutate)	Mutant Massacre
+Masque	Crossing
+Masque	Mutant Massacre
+Masque	Secret Wars
+Tarantula (Luis Alvarez)	Civil War
+Tarantula (Luis Alvarez)	World War Hulk
+Morbius	Acts of Vengeance!
+Morbius	Siege of Darkness
+Scarlet Witch	Age of Apocalypse
+Scarlet Witch	Avengers Disassembled
+Scarlet Witch	Avengers VS X-Men
+Scarlet Witch	Dark Reign
+Scarlet Witch	House of M
+Scarlet Witch	Infinity Gauntlet
+Scarlet Witch	Infinity War
+Scarlet Witch	Maximum Security
+Scarlet Witch	Onslaught
+Scarlet Witch	Secret Wars
+Scarlet Witch	Secret Wars II
+Scarlet Witch	Siege
+Scarlet Witch	Siege of Darkness
+Selene	Mutant Massacre
+New Warriors	Initiative
+New Warriors	Secret Invasion
+Jubilee	Age of Apocalypse
+Jubilee	Age of X
+Jubilee	Atlantis Attacks
+Jubilee	Days of Future Present
+Jubilee	Fatal Attractions
+Jubilee	Messiah CompleX
+Jubilee	Onslaught
+Jubilee	X-Tinction Agenda
+Molly Hayes	Civil War
+Shaman	Fear Itself
+Shaman	Infinity War
+Daken	Dark Reign
+Franklin Richards	Days of Future Present
+Franklin Richards	Evolutionary War
+Franklin Richards	Onslaught
+Iron Man	Acts of Vengeance!
+Iron Man	Age of X
+Iron Man	Armor Wars
+Iron Man	Atlantis Attacks
+Iron Man	Avengers Disassembled
+Iron Man	Avengers VS X-Men
+Iron Man	Chaos War
+Iron Man	Civil War
+Iron Man	Crossing
+Iron Man	Dark Reign
+Iron Man	Enemy of the State
+Iron Man	Fatal Attractions
+Iron Man	Fear Itself
+Iron Man	House of M
+Iron Man	Infinity War
+Iron Man	Initiative
+Iron Man	Maximum Security
+Iron Man	Onslaught
+Iron Man	Secret Invasion
+Iron Man	Secret Wars
+Snowbird	Chaos War
+Snowbird	Fear Itself
+Sentinel	House of M
+Sentinel	Messiah CompleX
+Sentinel	Onslaught
+Sentinel	X-Men: Schism
+U.S. Agent	Dark Reign
+U.S. Agent	Siege
+Purifiers	Evolutionary War
+Purifiers	Fear Itself
+Synch	Age of Apocalypse
+Klaw	Dark Reign
+Klaw	Secret Wars
+Uatu The Watcher	Infinity War
+Hope Summers	Avengers VS X-Men
+Hope Summers	Messiah War
+Hope Summers	X-Men: Regenesis
+Hope Summers	X-Men: Schism
+Hope Summers	X-Men: Second Coming
+Groot	Annihilation: Conquest
+Hulk	Acts of Vengeance!
+Hulk	Age of X
+Hulk	Avengers VS X-Men
+Hulk	Chaos War
+Hulk	Dark Reign
+Hulk	Fall of the Hulks
+Hulk	Fall of the Mutants
+Hulk	Fear Itself
+Hulk	House of M
+Hulk	Infinity Gauntlet
+Hulk	Infinity War
+Hulk	Initiative
+Hulk	Marvel NOW!
+Hulk	Maximum Security
+Hulk	Onslaught
+Hulk	Planet Hulk
+Hulk	Realm of Kings
+Hulk	Secret Invasion
+Hulk	Secret Wars
+Hulk	Secret Wars II
+Alpha Flight	Acts of Vengeance!
+Alpha Flight	Chaos War
+Alpha Flight	Fear Itself
+Alpha Flight	Infinity War
+Alpha Flight	Secret Wars II
+Agents of Atlas	Dark Reign
+Stepford Cuckoos	Chaos War
+Galactus	Fear Itself
+Galactus	Infinity Gauntlet
+Galactus	Infinity War
+Galactus	Initiative
+Galactus	Secret Wars
+Vengeance (Michael Badilino)	Siege of Darkness
+Elixir	Messiah War
+Emma Frost	Age of X
+Emma Frost	Avengers VS X-Men
+Emma Frost	Dark Reign
+Emma Frost	Enemy of the State
+Emma Frost	Messiah CompleX
+Emma Frost	X-Men: Regenesis
+Emma Frost	X-Men: Schism
+Wolverine	Acts of Vengeance!
+Wolverine	Age of Apocalypse
+Wolverine	Atlantis Attacks
+Wolverine	Avengers VS X-Men
+Wolverine	Chaos War
+Wolverine	Civil War
+Wolverine	Dark Reign
+Wolverine	Days of Future Present
+Wolverine	Enemy of the State
+Wolverine	Evolutionary War
+Wolverine	Fall of the Mutants
+Wolverine	Fatal Attractions
+Wolverine	Fear Itself
+Wolverine	House of M
+Wolverine	Inferno
+Wolverine	Infinity Gauntlet
+Wolverine	Infinity War
+Wolverine	Maximum Security
+Wolverine	Messiah CompleX
+Wolverine	Messiah War
+Diamondback (Rachel Leighton)	Dark Reign
+Diamondback (Rachel Leighton)	Infinity War
+Diamondback (Rachel Leighton)	Siege
+Harry Osborn	Dark Reign
+Stryfe	Messiah War
+Banshee (Theresa Rourke)	Age of Apocalypse
+Banshee (Theresa Rourke)	Fatal Attractions
+Banshee (Theresa Rourke)	Kings of Pain
+Banshee (Theresa Rourke)	Onslaught
+Banshee (Theresa Rourke)	Secret Invasion
+Mockingbird	Dark Reign
+Mockingbird	Evolutionary War
+Mockingbird	Fear Itself
+Spider-Girl (May Parker)	Fear Itself
+Havok	Acts of Vengeance!
+Havok	Age of Apocalypse
+Havok	Atlantis Attacks
+Havok	Days of Future Present
+Havok	Evolutionary War
+Havok	Fall of the Mutants
+Havok	Fatal Attractions
+Havok	Inferno
+Havok	Infinity War
+Havok	Messiah CompleX
+Havok	Onslaught
+Havok	Siege
+Havok	X-Tinction Agenda
+Morph	Age of Apocalypse
+Boomerang	Initiative
+Dracula	Fear Itself
+Toad	Kings of Pain
+Madelyne Pryor	Age of Apocalypse
+Madelyne Pryor	Evolutionary War
+Holocaust (Age of Apocalypse)	Age of Apocalypse
+Holocaust (Age of Apocalypse)	Onslaught
+Brood	World War Hulk
+Adam Warlock	Annihilation: Conquest
+Adam Warlock	Atlantis Attacks
+Adam Warlock	Blood and Thunder
+Adam Warlock	Days of Future Present
+Adam Warlock	Fear Itself
+Adam Warlock	Infinity Gauntlet
+Adam Warlock	Infinity War
+Adam Warlock	Mutant Massacre
+Adam Warlock	Secret Wars II
+Adam Warlock	X-Tinction Agenda
+Magneto (House of M)	House of M
+Namora	Dark Reign
+Namora	World War Hulk
+Grim Reaper	Chaos War
+Rogue	Acts of Vengeance!
+Rogue	Age of Apocalypse
+Rogue	Age of X
+Rogue	Atlantis Attacks
+Rogue	Civil War
+Rogue	Evolutionary War
+Rogue	Fall of the Mutants
+Rogue	Fatal Attractions
+Rogue	Inferno
+Rogue	Infinity War
+Rogue	Maximum Security
+Rogue	Messiah CompleX
+Rogue	Mutant Massacre
+Rogue	Onslaught
+Rogue	Secret Wars
+Rogue	Secret Wars II
+Rogue	Siege
+Rogue	World War Hulk
+Feral	Kings of Pain
+Vindicator	Fear Itself
+Arnim Zola	Civil War
+Nightcrawler	Age of Apocalypse
+Nightcrawler	Evolutionary War
+Nightcrawler	Fall of the Mutants
+Nightcrawler	Fatal Attractions
+Nightcrawler	Infinity War
+Nightcrawler	Maximum Security
+Nightcrawler	Messiah CompleX
+Nightcrawler	Mutant Massacre
+Nightcrawler	Onslaught
+Nightcrawler	Secret Wars
+Nightcrawler	Secret Wars II
+Nightcrawler	World War Hulk
+Viper	Dark Reign
+Super-Skrull	Annihilation
+Super-Skrull	Annihilation: Conquest
+Super-Skrull	Secret Invasion
+Hellion	House of M
+Clea	Acts of Vengeance!
+Clea	Infinity Gauntlet
+Clea	Infinity War
+Ozymandias	Onslaught
+Abomination (Emil Blonsky)	Chaos War
+Abomination (Emil Blonsky)	Infinity Gauntlet
+Captain America	Acts of Vengeance!
+Captain America	Age of X
+Captain America	Armor Wars
+Captain America	Avengers Disassembled
+Captain America	Avengers VS X-Men
+Captain America	Chaos War
+Captain America	Civil War
+Captain America	Fall of the Mutants
+Captain America	Fear Itself
+Captain America	House of M
+Captain America	Infinity Gauntlet
+Captain America	Infinity War
+Captain America	Maximum Security
+Captain America	Onslaught
+Captain America	Secret Invasion
+Captain America	Secret Wars
+Captain America	Secret Wars II
+Captain America	Shattered Heroes
+Captain America	Siege
+Zaladane	Evolutionary War
+Grey Gargoyle	Fear Itself
+Riptide	Inferno
+Riptide	Mutant Massacre
+Caliban	Evolutionary War
+Caliban	Fall of the Mutants
+Caliban	Mutant Massacre
+Caliban	Onslaught
+Caliban	Secret Wars
+Shadow King	Acts of Vengeance!
+Dragon Man	Inferno
+Bishop	Age of Apocalypse
+Bishop	Civil War
+Bishop	Fatal Attractions
+Bishop	House of M
+Bishop	Maximum Security
+Bishop	Messiah CompleX
+Bishop	Messiah War
+Bishop	Onslaught
+Legion	Acts of Vengeance!
+Legion	Age of Apocalypse
+Legion	Age of X
+Legion	Kings of Pain
+Legion	Secret Wars II
+Wraith	Annihilation: Conquest
+Wraith	Spider-Island
+Venus (Siren)	Chaos War
+Venus (Siren)	Dark Reign
+Talisman (Elizabeth Twoyoungmen)	Infinity War
+New Mutants	Acts of Vengeance!
+New Mutants	Age of X
+New Mutants	Atlantis Attacks
+New Mutants	Days of Future Present
+New Mutants	Evolutionary War
+New Mutants	Fall of the Mutants
+New Mutants	Fear Itself
+New Mutants	Inferno
+New Mutants	Kings of Pain
+New Mutants	Mutant Massacre
+New Mutants	Secret Wars
+New Mutants	Secret Wars II
+New Mutants	Siege
+New Mutants	X-Men: Second Coming
+New Mutants	X-Tinction Agenda
+Prism	Inferno
+Trauma	Dark Reign
+Trauma	Secret Invasion
+Trauma	World War Hulk
+Yellowjacket (Rita DeMara)	Chaos War
+Runaways	Civil War
+Human Torch	Acts of Vengeance!
+Human Torch	Atlantis Attacks
+Human Torch	Chaos War
+Human Torch	Civil War
+Human Torch	Dark Reign
+Human Torch	Days of Future Present
+Human Torch	Fall of the Mutants
+Human Torch	House of M
+Human Torch	Inferno
+Human Torch	Infinity Gauntlet
+Human Torch	Infinity War
+Human Torch	Initiative
+Human Torch	Maximum Security
+Human Torch	Onslaught
+Human Torch	Secret Wars
+Human Torch	Secret Wars II
+Human Torch	World War Hulk
+Jimmy Woo	Dark Reign
+Jimmy Woo	Fear Itself
+Mystique	Age of Apocalypse
+Mystique	Kings of Pain
+Mystique	Messiah CompleX
+Mystique	Mutant Massacre
+Mystique	Onslaught
+Dormammu	Infinity Gauntlet
+Jessica Jones	Initiative
+Jessica Jones	Spider-Island
+Colossus	Acts of Vengeance!
+Colossus	Age of Apocalypse
+Colossus	Age of X
+Colossus	Atlantis Attacks
+Colossus	Avengers VS X-Men
+Colossus	Civil War
+Colossus	Days of Future Present
+Colossus	Evolutionary War
+Colossus	Fall of the Mutants
+Colossus	Fatal Attractions
+Colossus	Fear Itself
+Colossus	Inferno
+Colossus	Infinity War
+Colossus	Maximum Security
+Colossus	Messiah CompleX
+Colossus	Mutant Massacre
+Colossus	Onslaught
+Colossus	Secret Wars
+Colossus	Secret Wars II
+Colossus	Siege
+Prowler	Messiah CompleX
+Firebird	Atlantis Attacks
+Firebird	Evolutionary War
+Illuminati	Secret Invasion
+Frog-Man	Spider-Island
+Ghost Rider (Daniel Ketch)	Fear Itself
+Ghost Rider (Daniel Ketch)	Shadowland
+Secret Warriors	Dark Reign
+Secret Warriors	Heroic Age
+Betty Brant	Spider-Island
+Nitro	Civil War
+Blade	Civil War
+Blade	Siege of Darkness
+Lady Deathstrike	Maximum Security
+X-Factor	Atlantis Attacks
+X-Factor	Days of Future Present
+X-Factor	Evolutionary War
+X-Factor	Fatal Attractions
+X-Factor	Inferno
+X-Factor	Kings of Pain
+X-Factor	Messiah CompleX
+X-Factor	Mutant Massacre
+Swordsman (Jaques Duquesne)	Chaos War
+Darkstar	Maximum Security
+Ultron	Acts of Vengeance!
+Ultron	Age of Ultron
+Ultron	Annihilation: Conquest
+Ultron	Initiative
+Ultron	Secret Wars
+Ultron	Siege
+Nick Fury	Acts of Vengeance!
+Nick Fury	Dark Reign
+Nick Fury	Enemy of the State
+Nick Fury	Fatal Attractions
+Nick Fury	Fear Itself
+Nick Fury	Maximum Security
+Nick Fury	Secret Invasion
+Nick Fury	Shattered Heroes
+Nick Fury	Siege
+The Initiative	Initiative
+The Initiative	World War Hulk
+Skin	Age of Apocalypse
+Kang	Crossing
+Kang	Inferno
+Titanium Man (Topolov)	Armor Wars
+Ares	Chaos War
+Ares	Dark Reign
+Ares	Initiative
+Ares	Secret Invasion
+Cosmo	The Thanos Imperative
+S.H.I.E.L.D.	Civil War
+Arclight	Inferno
+Arclight	Mutant Massacre
+Arclight	Siege
+Puppet Master	Infinity War
+Vision	Avengers VS X-Men
+Vision	Chaos War
+Vision	Civil War
+Vision	Dark Reign
+Vision	Infinity Gauntlet
+Vision	Infinity War
+Vision	Maximum Security
+Vision	Onslaught
+Vision	Secret Wars
+Vision	Secret Wars II
+Vision	Siege
+Black Widow	Avengers VS X-Men
+Black Widow	Chaos War
+Black Widow	Fear Itself
+Black Widow	Initiative
+Black Widow	Onslaught
+Black Widow	Secret Invasion
+Black Widow	Secret Wars
+Black Widow	Shattered Heroes
+Taskmaster	Dark Reign
+Taskmaster	Fear Itself
+Taskmaster	Secret Invasion
+Taskmaster	Shattered Heroes
+Taskmaster	Siege
+(u"Frankenstein's Monster",)	Fear Itself
+Caretaker	Siege of Darkness
+Eternity	Blood and Thunder
+(u"Ch'od",)	Maximum Security
+(u"Ch'od",)	Secret Wars II
+Kat Farrell	Initiative
+Excalibur	Avengers Disassembled
+Excalibur	Fatal Attractions
+Excalibur	House of M
+Excalibur	Inferno
+Excalibur	Onslaught
+Bengal	Dark Reign
+Bengal	Secret Invasion
+Bengal	Siege
+Loa	Fear Itself
+Slapstick	Dark Reign
+Slapstick	Siege
+Komodo (Melati Kusuma)	Dark Reign
+Komodo (Melati Kusuma)	Initiative
+Komodo (Melati Kusuma)	Secret Invasion
+Dog Brother #1	Fear Itself
+Hydra	Dark Reign
+Mimic	House of M
+Shard	Onslaught
+Risque	Onslaught
+Jocasta	Dark Reign
+Jocasta	Fear Itself
+Jocasta	Secret Invasion
+Jocasta	Shattered Heroes
+Jocasta	Siege
+Generation X	Onslaught
+Gateway	Atlantis Attacks
+Gateway	Evolutionary War
+Gateway	Onslaught
+Nighthawk	Fear Itself
+Destiny	Age of Apocalypse
+Destiny	Fall of the Mutants
+Destiny	Mutant Massacre
+Destiny	Secret Wars
+Norman Osborn	Dark Reign
+Norman Osborn	House of M
+Norman Osborn	Initiative
+Norman Osborn	Secret Invasion
+Norman Osborn	Shattered Heroes
+Norman Osborn	Siege
+Firestar	Acts of Vengeance!
+Firestar	Fear Itself
+Firestar	Kings of Pain
+Firestar	Spider-Island
+Reptil	Fear Itself
+Reptil	Shattered Heroes
+War (Abraham Kieros)	Age of Apocalypse
+War (Abraham Kieros)	Fall of the Mutants
+Kingpin	Acts of Vengeance!
+Kingpin	Civil War
+Kingpin	Secret Wars II
+Kingpin	Spider-Island
+Emplate	Age of Apocalypse
+Mole Man	Initiative
+Cloak	Civil War
+Cloak	Dark Reign
+Cloak	Spider-Island
+Sabretooth (Age of Apocalypse)	House of M
+Guardians of the Galaxy	Realm of Kings
+Guardians of the Galaxy	Secret Invasion
+Guardians of the Galaxy	The Thanos Imperative
+Guardians of the Galaxy	War of Kings
+Archangel	Acts of Vengeance!
+Archangel	Age of Apocalypse
+Archangel	Atlantis Attacks
+Archangel	Days of Future Present
+Archangel	Evolutionary War
+Archangel	Fall of the Mutants
+Archangel	Fatal Attractions
+Archangel	Inferno
+Archangel	Infinity War
+Archangel	Kings of Pain
+Archangel	Messiah CompleX
+Archangel	Messiah War
+Archangel	Mutant Massacre
+Archangel	Onslaught
+Archangel	War of Kings
+Archangel	World War Hulk
+Archangel	X-Tinction Agenda
+Sin	Fear Itself
+Sin	Initiative
+Sin	Shattered Heroes
+Aurora	Age of Apocalypse
+Aurora	Chaos War
+Aurora	Fear Itself
+Aurora	Infinity War
+Beast	Acts of Vengeance!
+Beast	Age of Apocalypse
+Beast	Atlantis Attacks
+Beast	Avengers VS X-Men
+Beast	Chaos War
+Beast	Civil War
+Beast	Days of Future Present
+Beast	Enemy of the State
+Beast	Evolutionary War
+Beast	Fall of the Mutants
+Beast	Fatal Attractions
+Beast	Fear Itself
+Beast	Inferno
+Beast	Infinity War
+Beast	Kings of Pain
+Beast	Maximum Security
+Beast	Messiah CompleX
+Beast	Mutant Massacre
+Beast	Onslaught
+Beast	Siege
+Raza	Maximum Security
+Raza	Secret Wars II
+Spider-Girl (Anya Corazon)	Spider-Island
+Magneto (Age of Apocalypse)	Age of Apocalypse
+Magneto (Age of Apocalypse)	Age of X
+Venom (Mac Gargan)	Chaos War
+Venom (Mac Gargan)	Civil War
+Venom (Mac Gargan)	Dark Reign
+Venom (Mac Gargan)	Initiative
+Venom (Mac Gargan)	Spider-Island
+Mercury	Messiah CompleX
+Falcon	Civil War
+Falcon	Fear Itself
+Falcon	Infinity War
+Falcon	Initiative
+Falcon	Onslaught
+Speed	Dark Reign
+Hawkeye (Kate Bishop)	Civil War
+Hawkeye (Kate Bishop)	Dark Reign
+Hawkeye (Kate Bishop)	Siege
+Hawkeye	Armor Wars
+Hawkeye	Avengers Disassembled
+Hawkeye	Avengers VS X-Men
+Hawkeye	Chaos War
+Hawkeye	Crossing
+Hawkeye	Dark Reign
+Hawkeye	Evolutionary War
+Hawkeye	Fear Itself
+Hawkeye	House of M
+Hawkeye	Maximum Security
+Hawkeye	Onslaught
+Hawkeye	Secret Wars
+Hawkeye	Shattered Heroes
+Hawkeye	Spider-Island
+Exiles	House of M
+Onslaught	Onslaught
+Sunspot	Age of Apocalypse
+Sunspot	Atlantis Attacks
+Sunspot	Days of Future Present
+Sunspot	Fatal Attractions
+Sunspot	Fear Itself
+Sunspot	Mutant Massacre
+Sunspot	Onslaught
+Sunspot	Secret Wars II
+Sunspot	X-Men: Regenesis
+Sunspot	X-Tinction Agenda
+Wong	Acts of Vengeance!
+Wong	Infinity Gauntlet
+Wong	Infinity War
+Wong	Siege of Darkness
+Rictor	Age of Apocalypse
+Rictor	Atlantis Attacks
+Rictor	Evolutionary War
+Rictor	Fatal Attractions
+Rictor	X-Tinction Agenda
+Longshot	Atlantis Attacks
+Longshot	Days of Future Present
+Longshot	Evolutionary War
+Longshot	Fall of the Mutants
+Longshot	Inferno
+Wonder Man	Armor Wars
+Wonder Man	Evolutionary War
+Wonder Man	Infinity War
+Wonder Man	Initiative
+Wonder Man	Maximum Security
+Wonder Man	Secret Invasion
+Wonder Man	Secret Wars II
+Thunderbird (Neal Shaara)	Maximum Security
+Spider-Woman (Jessica Drew)	Avengers VS X-Men
+Spider-Woman (Jessica Drew)	Civil War
+Spider-Woman (Jessica Drew)	Dark Reign
+Spider-Woman (Jessica Drew)	Fear Itself
+Spider-Woman (Jessica Drew)	Initiative
+Spider-Woman (Jessica Drew)	Secret Invasion
+Spider-Woman (Jessica Drew)	Spider-Island
+Justice	Dark Reign
+Justice	Fear Itself
+Justice	Shattered Heroes
+Justice	Siege
+(u"Tiger's Beautiful Daughter",)	Fear Itself
+Sersi	Fear Itself
+Post	Onslaught
+Moondragon	Annihilation: Conquest
+Moondragon	Blood and Thunder
+Vanisher (Telford Porter)	Messiah War
+Black Bolt	Civil War
+Black Bolt	Secret Invasion
+Black Bolt	War of Kings
+Black Bolt	World War Hulk
+Thunderbolts	Civil War
+Thunderbolts	Dark Reign
+Thunderbolts	Fear Itself
+Thunderbolts	Initiative
+Thunderbolts	Maximum Security
+Thunderbolts	Secret Invasion
+Thunderbolts	Shadowland
+Thunderbolts	Siege
+Hercules	Chaos War
+Hercules	Dark Reign
+Hercules	Fear Itself
+Hercules	Infinity Gauntlet
+Hercules	Infinity War
+Hercules	Maximum Security
+Hercules	Secret Wars II
+Hercules	Siege
+Hercules	Spider-Island
+Hercules	World War Hulk
+Red She-Hulk	Chaos War
+Red She-Hulk	Fear Itself
+Exodus	Age of Apocalypse
+Exodus	Fatal Attractions
+Exodus	X-Men: Regenesis
+The Order	Initiative
+Gamora	Annihilation: Conquest
+Gamora	Blood and Thunder
+Gamora	The Thanos Imperative
+Daredevil	Acts of Vengeance!
+Daredevil	Civil War
+Daredevil	Fall of the Mutants
+Daredevil	Fear Itself
+Daredevil	Inferno
+Daredevil	Infinity War
+Daredevil	Maximum Security
+Daredevil	Mutant Massacre
+Daredevil	Secret Invasion
+Daredevil	Secret Wars II
+Daredevil	Shadowland
+Odin	Blood and Thunder
+Odin	Fear Itself
+Odin	Maximum Security
+Odin	Onslaught
+Odin	Shattered Heroes
+Doctor Strange	Acts of Vengeance!
+Doctor Strange	Avengers VS X-Men
+Doctor Strange	Chaos War
+Doctor Strange	Civil War
+Doctor Strange	Fear Itself
+Doctor Strange	Infinity Gauntlet
+Doctor Strange	Infinity War
+Doctor Strange	Onslaught
+Doctor Strange	Secret Invasion
+Doctor Strange	Secret Wars II
+Doctor Strange	Siege of Darkness
+Doctor Strange	World War Hulk
+Madrox	Messiah CompleX
+Layla Miller	Messiah CompleX
+Layla Miller	Secret Invasion
+Fantastic Four	Acts of Vengeance!
+Fantastic Four	Atlantis Attacks
+Fantastic Four	Avengers Disassembled
+Fantastic Four	Chaos War
+Fantastic Four	Civil War
+Fantastic Four	Dark Reign
+Fantastic Four	Days of Future Present
+Fantastic Four	Evolutionary War
+Fantastic Four	Fall of the Mutants
+Fantastic Four	Fear Itself
+Fantastic Four	Heroic Age
+Fantastic Four	House of M
+Fantastic Four	Inferno
+Fantastic Four	Infinity War
+Fantastic Four	Initiative
+Fantastic Four	Onslaught
+Fantastic Four	Secret Invasion
+Fantastic Four	Secret Wars
+Fantastic Four	Secret Wars II
+Fantastic Four	The Thanos Imperative
+Squirrel Girl	Fear Itself
+Hardball	Dark Reign
+Hardball	Fear Itself
+Hardball	Secret Invasion
+Hardball	World War Hulk
+Deathcry	Annihilation: Conquest
+Deathcry	Chaos War
+Ant-Man (Eric O Grady)	Dark Reign
+Ant-Man (Eric O Grady)	Fear Itself
+Ant-Man (Eric O Grady)	Secret Invasion
+Ant-Man (Eric O Grady)	Shattered Heroes
+Ant-Man (Eric O Grady)	Siege
+Ant-Man (Eric O Grady)	World War Hulk
+Venom (Flash Thompson)	Spider-Island
+Avengers	Acts of Vengeance!
+Avengers	Age of X
+Avengers	Atlantis Attacks
+Avengers	Avengers Disassembled
+Avengers	Avengers VS X-Men
+Avengers	Chaos War
+Avengers	Crossing
+Avengers	Dark Reign
+Avengers	Evolutionary War
+Avengers	Fear Itself
+Avengers	Inferno
+Avengers	Infinity War
+Avengers	Initiative
+Avengers	Maximum Security
+Avengers	Onslaught
+Avengers	Secret Invasion
+Avengers	Secret Wars
+Avengers	Secret Wars II
+Avengers	Shattered Heroes
+Avengers	Siege
+Doctor Doom	Acts of Vengeance!
+Doctor Doom	Atlantis Attacks
+Doctor Doom	Dark Reign
+Doctor Doom	Fall of the Mutants
+Doctor Doom	House of M
+Doctor Doom	Infinity Gauntlet
+Doctor Doom	Onslaught
+Doctor Doom	Secret Wars
+Doctor Doom	Secret Wars II
+Luke Cage	Avengers VS X-Men
+Luke Cage	Chaos War
+Luke Cage	Civil War
+Luke Cage	Fear Itself
+Luke Cage	Secret Wars II
+Luke Cage	Shattered Heroes
+Luke Cage	Spider-Island
+Baron Strucker	Dark Reign
+Constrictor	Acts of Vengeance!
+Constrictor	Dark Reign
+Constrictor	Secret Invasion
+Constrictor	Siege
+Constrictor	World War Hulk
+Cloud 9	Fear Itself
+Cloud 9	Secret Invasion
+Husk	Age of Apocalypse
+Husk	Onslaught
+Thor	Acts of Vengeance!
+Thor	Atlantis Attacks
+Thor	Avengers Disassembled
+Thor	Avengers VS X-Men
+Thor	Blood and Thunder
+Thor	Chaos War
+Thor	Civil War
+Thor	Dark Reign
+Thor	Evolutionary War
+Thor	Fear Itself
+Thor	Infinity Gauntlet
+Thor	Infinity War
+Thor	Maximum Security
+Thor	Mutant Massacre
+Thor	Onslaught
+Thor	Secret Invasion
+Thor	Secret Wars
+Thor	Secret Wars II
+Thor	Shattered Heroes
+Thor	Siege
+Northstar	Age of Apocalypse
+Northstar	Chaos War
+Northstar	Fear Itself
+Northstar	Infinity War
+Northstar	X-Men: Schism
+Gorgon	Acts of Vengeance!
+Gorgon	Dark Reign
+Gorgon	Enemy of the State
+Gideon	Kings of Pain
+Misty Knight	Civil War
+Misty Knight	Fear Itself
+Misty Knight	Shadowland
+Misty Knight	Spider-Island
+Misty Knight	World War Hulk
+Moonstone	Dark Reign
+Moonstone	Fear Itself
+Moonstone	Maximum Security
+Moonstone	Siege
+Unus	Age of Apocalypse
+Morlun	Other - Evolve or Die
+Jackal	Spider-Island
+Prodigy	Dark Reign
+Prodigy	Fear Itself
+Prodigy	Messiah CompleX
+Warpath	Age of Apocalypse
+Warpath	Fatal Attractions
+Warpath	Kings of Pain
+Warpath	Messiah War
+Warpath	Onslaught
+Magik (Amanda Sefton)	Fear Itself
+Magik (Amanda Sefton)	House of M
+Prince of Orphans	Fear Itself
+Namorita	Acts of Vengeance!
+Namorita	Atlantis Attacks
+Namorita	Infinity War
+Namorita	Kings of Pain
+Namorita	Maximum Security
+Sentry (Robert Reynolds)	Chaos War
+Sentry (Robert Reynolds)	Civil War
+Sentry (Robert Reynolds)	Dark Reign
+Sentry (Robert Reynolds)	Initiative
+Sentry (Robert Reynolds)	Secret Invasion
+Sentry (Robert Reynolds)	Siege
+Sentry (Robert Reynolds)	World War Hulk
+Bride of Nine Spiders (Immortal Weapons)	Fear Itself
+Beta-Ray Bill	Secret Invasion
+Beta-Ray Bill	The Thanos Imperative
+Lily Hollister	Dark Reign
+Firelord	Infinity Gauntlet
+Captain Marvel (Carol Danvers)	Acts of Vengeance!
+Captain Marvel (Carol Danvers)	Avengers VS X-Men
+Captain Marvel (Carol Danvers)	Civil War
+Captain Marvel (Carol Danvers)	Dark Reign
+Captain Marvel (Carol Danvers)	Days of Future Present
+Captain Marvel (Carol Danvers)	Fall of the Mutants
+Captain Marvel (Carol Danvers)	Fear Itself
+Captain Marvel (Carol Danvers)	Inferno
+Captain Marvel (Carol Danvers)	Initiative
+Captain Marvel (Carol Danvers)	Marvel NOW!
+Captain Marvel (Carol Danvers)	Maximum Security
+Captain Marvel (Carol Danvers)	Secret Invasion
+Captain Marvel (Carol Danvers)	Spider-Island
+Captain Marvel (Carol Danvers)	World War Hulk
+Psylocke	Acts of Vengeance!
+Psylocke	Age of Apocalypse
+Psylocke	Atlantis Attacks
+Psylocke	Days of Future Present
+Psylocke	Evolutionary War
+Psylocke	Fall of the Mutants
+Psylocke	Fatal Attractions
+Psylocke	Inferno
+Psylocke	Infinity War
+Psylocke	Maximum Security
+Psylocke	Messiah CompleX
+Psylocke	Mutant Massacre
+Psylocke	Onslaught
+Psylocke	X-Men: Schism
+Psylocke	X-Tinction Agenda
+X-Men	Acts of Vengeance!
+X-Men	Age of Apocalypse
+X-Men	Age of X
+X-Men	Atlantis Attacks
+X-Men	Avengers VS X-Men
+X-Men	Chaos War
+X-Men	Civil War
+X-Men	Dark Reign
+X-Men	Days of Future Present
+X-Men	Enemy of the State
+X-Men	Evolutionary War
+X-Men	Fall of the Mutants
+X-Men	Fatal Attractions
+X-Men	Fear Itself
+X-Men	House of M
+X-Men	Inferno
+X-Men	Infinity War
+X-Men	Kings of Pain
+X-Men	Maximum Security
+X-Men	Messiah CompleX
+Banshee	Acts of Vengeance!
+Banshee	Age of Apocalypse
+Banshee	Chaos War
+Banshee	Days of Future Present
+Banshee	Fatal Attractions
+Banshee	Messiah CompleX
+Banshee	Onslaught
+Banshee	X-Tinction Agenda
+Wild Child	Age of Apocalypse
+Cyclops	Acts of Vengeance!
+Cyclops	Age of Apocalypse
+Cyclops	Age of X
+Cyclops	Atlantis Attacks
+Cyclops	Avengers VS X-Men
+Cyclops	Civil War
+Cyclops	Days of Future Present
+Cyclops	Enemy of the State
+Cyclops	Evolutionary War
+Cyclops	Fall of the Mutants
+Cyclops	Fatal Attractions
+Cyclops	Fear Itself
+Cyclops	Inferno
+Cyclops	Infinity War
+Cyclops	Kings of Pain
+Cyclops	Messiah CompleX
+Cyclops	Mutant Massacre
+Cyclops	Onslaught
+Cyclops	Secret Wars
+Cyclops	Secret Wars II
+Typhoid Mary	Dark Reign
+Gladiator (Kallark)	Maximum Security
+Gladiator (Kallark)	The Thanos Imperative
+Magma (Amara Aquilla)	Fear Itself
+Magma (Amara Aquilla)	Mutant Massacre
+Magma (Amara Aquilla)	X-Men: Regenesis
+Fat Cobra	Fear Itself
+Black Cat	Civil War
+Black Cat	Initiative
+Black Cat	Maximum Carnage
+Black Cat	World War Hulk
+Rage	Dark Reign
+Rage	Initiative
+Rage	Siege
+Rage	World War Hulk
+Ghost Rider (Johnny Blaze)	Age of X
+Ghost Rider (Johnny Blaze)	Civil War
+Ghost Rider (Johnny Blaze)	Fear Itself
+Ghost Rider (Johnny Blaze)	Shadowland
+Ghost Rider (Johnny Blaze)	Siege of Darkness
+Ghost Rider (Johnny Blaze)	World War Hulk
+Foggy Nelson	Fear Itself
+Dani Moonstar	Fear Itself
+Dani Moonstar	House of M
+Dani Moonstar	Secret Wars II
+Stick	Onslaught
+Menace	Dark Reign
+Boom Boom	Atlantis Attacks
+Boom Boom	Days of Future Present
+Boom Boom	Evolutionary War
+Boom Boom	Kings of Pain
+Boom Boom	Mutant Massacre
+Boom Boom	X-Tinction Agenda
+Deathbird	Chaos War
+Deathbird	Maximum Security
+Toro (Thomas Raymond)	House of M
+Wasp	Avengers Disassembled
+Wasp	Civil War
+Wasp	Dark Reign
+Wasp	Fear Itself
+Wasp	Infinity War
+Wasp	Initiative
+Wasp	Maximum Security
+Wasp	Onslaught
+Wasp	Secret Invasion
+Wasp	Secret Wars
+Wasp	Secret Wars II
+Silhouette	Kings of Pain
+Joseph	Onslaught
+Thundra	Dark Reign
+Arachne	Spider-Island
+Crimson Dynamo	Armor Wars
+Boomer	Age of Apocalypse
+Boomer	Fatal Attractions
+Defenders	Fear Itself
+Defenders	Secret Wars II
+Celestials	Atlantis Attacks
+Celestials	X-Men: Regenesis
+Rick Jones	Chaos War
+Rick Jones	Initiative
+Absorbing Man	Fear Itself
+Absorbing Man	Secret Wars
+Absorbing Man	Shattered Heroes
+Absorbing Man	Siege
+Mach IV	Fear Itself
+Captain America (House of M)	House of M
+Cable	Age of Apocalypse
+Cable	Avengers VS X-Men
+Cable	Civil War
+Cable	Days of Future Present
+Cable	Fatal Attractions
+Cable	Kings of Pain
+Cable	Maximum Security
+Cable	Messiah CompleX
+Cable	Messiah War
+Cable	Onslaught
+Cable	X-Men: Second Coming
+Cable	X-Tinction Agenda
+Dum Dum Dugan	Dark Reign
+Dum Dum Dugan	Onslaught
+Dum Dum Dugan	Secret Invasion
+Gambit	Age of Apocalypse
+Gambit	Age of X
+Gambit	Avengers VS X-Men
+Gambit	Fatal Attractions
+Gambit	Maximum Security
+Gambit	Messiah CompleX
+Gambit	Onslaught
+Gambit	Siege
+Gambit	X-Men: Schism
+Gambit	X-Tinction Agenda
+Captain Universe	Annihilation: Conquest
+Warstar	Maximum Security
+Thor Girl	Dark Reign
+Thor Girl	Fear Itself
+Thor Girl	Secret Invasion
+Professor X	Age of Apocalypse
+Professor X	Age of X
+Professor X	Civil War
+Professor X	Evolutionary War
+Professor X	Fatal Attractions
+Professor X	Inferno
+Professor X	Infinity War
+Professor X	Maximum Security
+Professor X	Messiah CompleX
+Professor X	Onslaught
+Professor X	Secret Invasion
+Professor X	Secret Wars
+Professor X	Secret Wars II
+Professor X	World War Hulk
+Professor X	X-Men: Schism
+Blastaar	Annihilation: Conquest
+Songbird	Fear Itself
+Songbird	Initiative
+Captain Marvel (Mar-Vell)	Chaos War
+Captain Marvel (Mar-Vell)	Maximum Security
+Captain Marvel (Mar-Vell)	Secret Invasion
+Captain Marvel (Mar-Vell)	Secret Wars
+Captain Marvel (Mar-Vell)	Secret Wars II
+Crossbones	Fear Itself
+Crossbones	Shattered Heroes
+Black Panther	Civil War
+Black Panther	Dark Reign
+Black Panther	Fall of the Mutants
+Black Panther	Fear Itself
+Black Panther	House of M
+Black Panther	Initiative
+Black Panther	Maximum Security
+Black Panther	Onslaught
+Black Panther	Other - Evolve or Die
+Black Panther	Secret Invasion
+Black Panther	Spider-Island
+Black Panther	World War Hulk
+Captain Britain	Avengers VS X-Men
+Captain Britain	Fatal Attractions
+Captain Britain	Kings of Pain
+Captain Britain	Onslaught
+Domino	Age of Apocalypse
+Domino	Civil War
+Domino	Kings of Pain
+Domino	Messiah War
+Domino	Onslaught
+Shatterstar	Age of Apocalypse
+Shatterstar	Civil War
+Shatterstar	Fatal Attractions
+Shatterstar	Kings of Pain
+Shatterstar	Onslaught
+Spider-Man	Acts of Vengeance!
+Spider-Man	Atlantis Attacks
+Spider-Man	Avengers Disassembled
+Spider-Man	Avengers VS X-Men
+Spider-Man	Chaos War
+Spider-Man	Civil War
+Spider-Man	Dark Reign
+Spider-Man	Days of Future Present
+Spider-Man	Evolutionary War
+Spider-Man	Fear Itself
+Spider-Man	House of M
+Spider-Man	Inferno
+Spider-Man	Infinity Gauntlet
+Spider-Man	Initiative
+Spider-Man	Kraven's Last Hunt
+Spider-Man	Maximum Carnage
+Spider-Man	Maximum Security
+Spider-Man	Onslaught
+Spider-Man	Other - Evolve or Die
+Spider-Man	Secret Invasion
+Hussar	Maximum Security
+Punisher	Acts of Vengeance!
+Punisher	Atlantis Attacks
+Punisher	Civil War
+Punisher	Dark Reign
+Punisher	Initiative
+Punisher	Maximum Security
+Punisher	Onslaught
+Punisher	World War Hulk
+Punisher	X-Tinction Agenda
+Heroes For Hire	Civil War
+Heroes For Hire	Fear Itself
+Heroes For Hire	World War Hulk
+Toxin (Eddie Brock)	Maximum Carnage
+Toxin (Eddie Brock)	Spider-Island
+Eternals	Atlantis Attacks
+Iceman	Acts of Vengeance!
+Iceman	Age of Apocalypse
+Iceman	Atlantis Attacks
+Iceman	Civil War
+Iceman	Days of Future Present
+Iceman	Evolutionary War
+Iceman	Fall of the Mutants
+Iceman	Fatal Attractions
+Iceman	Inferno
+Iceman	Kings of Pain
+Iceman	Messiah CompleX
+Iceman	Mutant Massacre
+Iceman	Onslaught
+Iceman	World War Hulk
+Iceman	X-Men: Regenesis
+Iceman	X-Men: Schism
+Iceman	X-Tinction Agenda
+Shocker (Herman Schultz)	Initiative
+Shocker (Herman Schultz)	Spider-Island
+Surge	Messiah CompleX
+Hulkling	Civil War
+Hulkling	Dark Reign
+Hulkling	Siege
+Doop	Marvel NOW!
+Shalla-bal	Infinity Gauntlet
+Calypso	Infinity War
+Ronan the Accuser	Annihilation
+Ronan the Accuser	Annihilation: Conquest
+Ronan the Accuser	The Thanos Imperative
+J. Jonah Jameson	Atlantis Attacks
+J. Jonah Jameson	Dark Reign
+J. Jonah Jameson	House of M
+J. Jonah Jameson	Initiative
+J. Jonah Jameson	Spider-Island
+Sinister Six	Fear Itself
+X-Force	Age of Apocalypse
+X-Force	Fatal Attractions
+X-Force	Fear Itself
+X-Force	Messiah CompleX
+X-Force	Messiah War
+X-Force	Onslaught
+X-Force	X-Men: Second Coming
+Serpent Society	Acts of Vengeance!
+Serpent Society	Armor Wars
+Serpent Society	Fear Itself
+Crystal	Evolutionary War
+Crystal	Fall of the Mutants
+Crystal	Onslaught
+Crystal	War of Kings
+Shriek	Maximum Carnage
+Mephisto	Infinity Gauntlet
+Mephisto	Shattered Heroes

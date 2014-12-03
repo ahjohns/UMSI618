@@ -1,0 +1,98 @@
+**"Traveling Through The Marvel Universe", SI 618 Final Project: Alex Johnson**
+========================================================================================
+
+**Motivation**
+----------------------------------------------------------------------------------------
+  My project is an exploration of the Marvel Universe, and my motivation was to extrapolate the connections between characters and their appearances in Marvel comics, series, events and stories.  I thought it would be interesting for comic fans to be able to visualize how their favorite characters overlap and interact within this framework. Four questions I wanted to answer with my dataset were: 1) which group of characters have appeared in the most comics books within the Marvel Universe: X-Men or Avengers and how do they overlap, it at all, 2) in the X-Men universe, can a comparison be made between ‘Good’ (i.e. Professor X) and ‘Evil’ (i.e Magneto) characters based on the stories within the Marvel Universe they have appeared in, 3) which character or characters has appeared in the most individual series of comics, 4) what were the top 5 events within the Marvel Universe that had the most impact on characters (i.e, which one had the most characters involved). 
+
+**Data Source**
+-------------------------------------------------------------------------------------
+  The dataset I used to answer these questions was the Marvel API, located at this URL: http://developer.marvel.com. It is in JSON format using the REST protocol.  When figuring out how to get the data I needed I considered two options: making an API call with urrlib2 or using a module called PyMarvel, which acts as a wrapper for the API.  In the end I discovered that the source code and documentation for PyMarvel was too unwieldy and limited (100 calls) for my purposes and went with the former. As a developer, I was allowed 3000 calls per day. Important variables to consider when making the API call were limit, offset, timestamp, public key and an MD5 hash value of the timestamp, public key and my own private key. An example API call for those parameters would look like this: (source:https://developer.marvel.com/documentation/authorization) http://gateway.marvel.com/v1/characters/?ts=1&apikey=1234&hash=ffd275c5130566a2916217b101f26150. Using a for loop to account for the range/offset of characters I would be recieving, I returned 1401 characters in JSON dictionary key/value results. Each character array had the name of the character, a short bio, and a list of stories, comics, series and events the characters have appeared in, with multiple nested dictionaries and lists which required extensive processing to get the format I wanted for my tab delimited files, ultimately to be loaded in RStudio. I ended up structuring my data in order to produce 4 large separate files for each appearance type because of the variance in number of results: a column for a character and a column for their appearance. I also concluded, that in order to answer the four questions, I would need these four files to be loaded into RStudio for the analysis.
+
+**Python Manipulation Methods & Difficulties**
+-------------------------------------------------------------------------------------
+  My first python file uses the urrlib2 module to get each character result, writing it in a .txt file.  My second python file reads the .txt file, and iterates through each line, and dumps the JSON nested dictionary.  Each variable that I required (character name, comics, series, events and stories) were separate keys in a nested dictionary and if the key had multiple values, that was in a list format. I appended each key value to its own list (either single instance or list of lists).  I zipped up these lists together, which led me to the problem of how to line up each character (a single occurrence) with multiple values for each appearance type. This was probably my major problem as I debated the most efficient way of how to match each character with a single value instead of list of multiple values.  I debated using lists within lists versus nested dictionaries, but eventually figured out that using a default dictionary was the best bet to solve my problem. As I was iterating through the zipped list of lists, I assigned the first item (character name) as the key to this default dictionary and each appearance type as a nested key, value pair (each value being a list of values). I was then able to iterate through each key, nested key, and nested value and wrote out each primary key, and nested value to their corresponding file based on the inner key, leading to the format that I wanted (i.e Nick Fury  Age of Apocalypse). I now had four files named comics.txt, series.txt, stories.txt, and events.txt files, appropriately, to try and answer my four questions.
+
+  Accessing the data correctly proved to be difficult at first because the API required a correct timestamp and hash value.  In order to correctly call these, I used the time and hashlib module to create a live hash value for each call.  As has been mentioned, another problem came about with structuring the data appropriately, and figuring out the best way to capture my data the way I wanted. As I was loading the resulting .txt files in R, it became apparent that many of my files were too large and unwieldy for RStudio to properly render plots (for example, my comics file is over 10,000 rows long - as there are 1401 characters and each could have made multiple appearances). To solve that problem, I ended up creating subsets of some of the files to effectively answer the questions.  For example, it was easy to grab individual character names (i.e X-Men vs Avengers) by subsetting only those rows with the values that I wanted into two separate data-frames.
+  
+**Exploratory Analysis in R & Results**
+---------------------------------------------------------------------------------------
+###**Question 1: X-Men vs. Avengers**
+ 
+ To answer the first question, I loaded the comics.txt file into R, created two subsets for X-Men (only original and 60’s recruits to aim for a smaller size) and Avengers (only original and 60’s recruits to aim for a smaller size) characters (subsetting based on name variable values), and created a point graph of characters using ggplot, with comic titles as color and fill.  It was my intention to combine the two for better comparative analysis, however after looking through the R documentation, there didn’t seem an easy way to do this (the graphs are also very large, and so I determined that it wouldn’t add any visual value to better my analysis to use these facets). Interestingly, I chose not to use a histogram because each subset held wildly popular characters.  I will note that in my findings in python that there seemed to be a limitation of the API on the maximum number of returned results, and that it was better to have a visual comparision of all comics within both Marvel sub-universes. While the graphs don't really answer the proposed question, it is very easy to see how different Avenger and X-Men recruits interact with each other on a comic by comic basis, perhaps pointing to friendships and relationships that may have budded out of their appearances. [See Figure 1.A and Figure 1.B for visualization]
+ 
+###**Question 2: Good Vs. Evil**
+
+  For the second question, I loaded the story.txt file into R, and I created a subset again identifying original X-Men and 60’s recruits (good), this time using the story subset, and after researching characters considered ‘evil’ in the X-Men universe, created a separate subset for characters I had determined were 'evil'.  I then merged the two data frames (instead of creating one single subset from the beginning). I used ggplot to create a jitter graph based on characters. This was relatively straightforward, but I ran into some problems with the syntax. In regards to the visualization, it is apparent that 'good' characters have had far more story appearances than 'evil' characters. However, there also seems to be a lot of variance in appearances as well, meaning that there are very few instances of 'good' vs 'evil interacting with each, suggesting that stories within the Marvel Universe are less about a triggering event that collides two worlds together, but tells the singular story of a character. [See Figure 2. for visualization]
+  
+###**Question 3: Most Series Appearances**
+
+  For the third question, I loaded the series.txt file into R. I decided it was necessary to use the entire data frame for my analysis because I wanted to find the single most popular character in the entire Marvel Universe for that appearance type.  I used ggplot again to create a jitter graph of the results.  This question was the hardest to analyze because the graph and data points were so large and numerous, and getting the graph configured correctly kept crashing RStudio.  With the right syntax, I was able to produce a visual aid, however it is hard to determine the character with the most series appearances. However, from this graph, an analysis can be made on characters that have crossed over into the same series (hence, which series has been the most impactful), and would make for an interesting analysis.  The main problem with answering this question is that there is so much data to analyze, so perhaps creating multiple subsets may have helped narrow down some variancies. [See Figure 3 for visualization]
+  
+###**Question 4: Top Events in the Marvel Universe**
+
+  For the fourth question, I loaded the events.txt file into R.  Thankfully, this data frame was the smallest of the four, and made the question easy to visualize graphically. I used ggplot to create a histogram of the counts of character appearances per event with theme and guides, using a fill and color schema based on character name to allow for some deeper exploration. I was able to ascertain that the Marvel event with the most number of characters appearances was "The Fear Itself" with nearly 120 characters involved in that event.  From the graph legend, it is also very clear which specific characters were involved.  The same goes for the next 4 top results, and, if I wanted to see the lowest frequency of characters as well (i.e "World War Hulk" with 1), that was entirely possible. [See Figure 4 for visualization]
+  
+
+```{r}
+library(ggplot2)
+library(plyr)
+library(gplots)
+library(grid)
+library(knitr)
+library(markdown)
+comicsdata <- read.delim("comics.txt", header = TRUE)
+comicsdata <- na.omit(comicsdata)
+head(comicsdata)
+avengercomicdata <- subset(comicsdata[comicsdata$Character %in% c('Iron Man', 'Thor', 'Hank Pym', 'Wasp', 'Hulk', 'Captain America', 'Hawkeye', 'Quicksilver','Scarlet Witch', 'Swordsman', 'Hercules', 'Black Panther', 'The Vision', 'Black Night'),])
+xmencomicdata <- subset(comicsdata[comicsdata$Character %in% c('Professor X', 'Cyclops', 'Iceman', 'Archangel', 'Beast', 'Phoenix', 'Mimic', 'Changeling','Polaris', 'Havic'),])
+#combine avengers/x-men
+```
+**Figure 1.A**
+```{r, fig.height= 20, fig.width=30}
+# 1 Part A
+avengers <- ggplot(avengercomicdata, aes(x=Character, y=Comics, colour = Comics, fill = Comics)) + geom_point()+labs(x="Avengers Characters", "Comic Appearances", title="The Avengers Comic Appearances")+guides(col=guide_legend(ncol=3))
+avengers
+
+```
+**Figure 1.B**
+```{r, fig.height= 20, fig.width=30} 
+# 1 Part B
+xmen <- ggplot(xmencomicdata, aes(x=Character, y=Comics, colour = Comics, fill = Comics)) + geom_point()+labs(x="X-Men Characters", "Comic Appearances", title="X-Men Comic Appearances")+guides(col=guide_legend(ncol=3))
+xmen
+```
+**Figure 2**  
+```{r, fig.height=40, fig.width=40}
+#2
+storiesdata <- read.delim("stories.txt", header = TRUE, stringsAsFactors = FALSE)
+storiesdata <- na.omit(storiesdata)
+head(storiesdata)
+goodstorydata <- subset(storiesdata[storiesdata$Character %in% c('Professor X', 'Cyclops', 'Iceman', 'Archangel', 'Beast', 'Phoenix', 'Mimic', 'Changeling','Polaris', 'Havic'),])
+evilstorydata <- subset(storiesdata[storiesdata$Character %in% c('Magneto', 'Toad', 'Quicksilver', 'Scarlet Witch', 'Mastermind', 'Blob', 'Unus', 'Lorelei', 'Vanisher (Telford Porter)'),])
+goodvsevildata <- merge(goodstorydata, evilstorydata, by = c("Character", "Stories"), all=TRUE)#, Character(evilstorydata)), all=TRUE))
+goodvsevil <- ggplot(goodvsevildata, aes(x=Character, y=Stories, colour = Stories)) + geom_jitter()+labs(x="Characters", y="Comics", title="X-Men vs. Magneto's Brotherhood")+guides(col=guide_legend(ncol=3))
+goodvsevil
+```
+**Figure 3**
+```{r, fig.height=175, fig.width=150}
+#3
+seriesdata <- read.delim("series.txt", header = TRUE, stringsAsFactors = FALSE)
+seriesdata <- na.omit(seriesdata)
+head(seriesdata)
+series<- ggplot(seriesdata, aes(x=Character, y=Series, colour= Character)) + geom_jitter() +labs(x="Characters", y="Series", title="Marvel Character's Series Appearances") +guides(col=guide_legend(ncol=5)) + theme(axis.text.x=element_text(angle=90))
+series
+```
+**Figure 4**
+```{r, fig.height=20, fig.width=40}
+#4
+eventsdata <- read.delim("events.txt", header = TRUE, stringsAsFactors = FALSE)
+eventsdata <- na.omit(eventsdata)
+eventsdata$Events <- as.factor(eventsdata$Events)
+eventsdata$Character <- as.factor(eventsdata$Character)
+head(eventsdata)
+eventsdata <- eventsdata[order(eventsdata$Events),]
+events <- ggplot(eventsdata, aes(x=Events, colour = Character, fill = Character)) + geom_histogram()+labs(x="Events", "Character Counts", title="Marvel Events by Character")+guides(col=guide_legend(ncol=4)) + theme(axis.text.x=element_text(angle=90))
+events
+```
+
+
